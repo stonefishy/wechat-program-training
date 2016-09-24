@@ -1,14 +1,10 @@
 <view class="detial-view">
-	<block>
+	<view>
 		<text class="title">{{title}}</text>
-	</block>
-	<block>
 		<p class="content">{{content}}</p>
-	</block>
-	<block>
-		<div class="footer">
-			<span class="visitor-part">Vistor: {{visitor}}</span>
-			<span class="date-part">Date: {{date}}</span>
-		</div>
-	</block>
+	</view>
+	<view class="footer">
+		<text class="visitor-part">Visitor: {{visitor}}</text>
+		<text class="date-part">Date: {{date}}</text>
+	</view>
 </view>
