@@ -9,4 +9,5 @@
 }
 .log-item {
   margin: 10px;
+  color: gray;
 }
