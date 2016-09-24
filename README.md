@@ -10,7 +10,7 @@ To run these codes, you have to download the developer tool from [here](https://
 After you download and install it, using your webchat to scan QR code to login the developer tools, and then import the demo project, so you can view and run these demo.
 
 ###Documentation
-The Webchat offical website provide some documentation to assit developers. please refer to below links.
+The Wechat offical website provide some documentation to assit developers. please refer to below links.
 
 * [Design](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
 * [Simple Tutorial](https://mp.weixin.qq.com/debug/wxadoc/dev/?t=1474644089807)
