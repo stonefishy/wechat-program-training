@@ -1,0 +1,12 @@
+.log-title {
+	margin-bottom: 20px;
+	font-size: 25px;
+}
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10px;
+}
