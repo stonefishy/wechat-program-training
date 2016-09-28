@@ -19,7 +19,7 @@
     	<text class="count">{{globalData.hide}}</text>
     </view>
     <view class="button">
-    	<button class="btn" bindtap="navigateBack">Back</button>
-    	<button class="btn" bindtap="navigateNext">Next</button>
+    	<button bindtap="navigateBack">Back</button>
+    	<button bindtap="navigateNext">Back</button>
     </view>
 </view>
