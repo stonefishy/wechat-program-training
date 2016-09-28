@@ -1,3 +1,21 @@
 <view class="container">
-    <text class="page_mark">Page 1</text>
+	<block>
+    	<text class="page_mark">Page 1</text>
+    </block>
+    <view class="data">
+    	<text class="label">Current Page Show: </text>
+    	<text class="count">{{page.show}}</text>
+    </view>
+	<view class="data">
+    	<text class="label">Current Page Hide: </text>
+    	<text class="count">{{page.hide}}</text>
+    </view>
+    <view class="data">
+    	<text class="label">Global App Show: </text>
+    	<text class="count">{{globalData.show}}</text>
+    </view>
+    <view class="data">
+    	<text class="label">Global App Hide: </text>
+    	<text class="count">{{globalData.hide}}</text>
+    </view>
 </view>
