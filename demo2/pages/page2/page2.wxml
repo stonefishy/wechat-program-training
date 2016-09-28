@@ -1,6 +1,6 @@
 <view class="container">
 	<block>
-    	<text class="page_mark">Page 1</text>
+    	<text class="page_mark">Page 2</text>
     </block>
     <view class="data">
     	<text class="label">Current Page Show: </text>
@@ -20,6 +20,6 @@
     </view>
     <view class="button">
     	<button bindtap="navigateBack">Back</button>
-    	<button bindtap="navigateNext">Back</button>
+    	<button bindtap="navigateNext">Next</button>
     </view>
 </view>

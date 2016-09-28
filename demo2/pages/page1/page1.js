@@ -4,7 +4,7 @@ var app = getApp();
 Page({
 	data: {
 		globalData: app.globalData,
-		nextpage: "page2"
+		nextpage: "../page2/page2"
 	},
 	onLoad: function () {
 		logger.log("Page Loaded");

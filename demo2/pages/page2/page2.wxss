@@ -3,6 +3,6 @@
 	margin: 100rpx 0;
 }
 
-.btn {
+button {
 	margin: 50rpx 100rpx;
 }
